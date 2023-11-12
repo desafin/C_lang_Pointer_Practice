@@ -15,7 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="pointer_practice.cpp">
+    <ClCompile Include="변수의메모리주소확인.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터선언과 사용.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터를사용한두정수의 합과 평균계산.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
