@@ -1,2 +1,5 @@
-﻿  포인터를사용한두정수의 합과 평균계산.cpp
-  pointer_practice.vcxproj -> C:\Users\ll\Desktop\C_lang_Pointer_Practice\x64\Debug\pointer_practice.exe
+﻿  허용되지않는 포인터의 대입.c
+C:\Users\desaf\Desktop\C_lang_Pointer_Practice\허용되지않는 포인터의 대입.c(11,5): warning C4047: '=': 'double *' differs in levels of indirection from 'int'
+C:\Users\desaf\Desktop\C_lang_Pointer_Practice\허용되지않는 포인터의 대입.c(12,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double *'
+C:\Users\desaf\Desktop\C_lang_Pointer_Practice\허용되지않는 포인터의 대입.c(12,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'double *'
+  pointer_practice.vcxproj -> C:\Users\desaf\Desktop\C_lang_Pointer_Practice\x64\Debug\pointer_practice.exe

@@ -13,16 +13,31 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\포인터 연습">
+      <UniqueIdentifier>{419287e7-ddba-48be-8c5a-2fb1e729f912}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\포인터 이해하기">
+      <UniqueIdentifier>{a3c88eed-315d-477b-94ce-f345331be285}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="변수의메모리주소확인.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\포인터 연습</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터를사용한두정수의 합과 평균계산.c">
+      <Filter>소스 파일\포인터 연습</Filter>
     </ClCompile>
     <ClCompile Include="포인터선언과 사용.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\포인터 연습</Filter>
     </ClCompile>
-    <ClCompile Include="포인터를사용한두정수의 합과 평균계산.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="포인터에상수사용.c">
+      <Filter>소스 파일\포인터 연습</Filter>
+    </ClCompile>
+    <ClCompile Include="주소와 포인터의 크기.c">
+      <Filter>소스 파일\포인터 이해하기</Filter>
+    </ClCompile>
+    <ClCompile Include="허용되지않는 포인터의 대입.c">
+      <Filter>소스 파일\포인터 이해하기</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

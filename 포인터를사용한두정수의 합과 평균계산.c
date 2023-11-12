@@ -21,9 +21,9 @@ int main() {
 	*pt = *pa + *pb;
 	*pg = *pt / 2.0;
 
-	printf("µÎ Á¤¼öÀÇ °ª : %d , %d\n", *pa, *pb);
-	printf("µÎ Á¤¼öÀÇ ÇÕ : %d\n", *pt);
-	printf("µÎ Á¤¼öÀÇ Æò±Õ: %.1lf\n", *pg);
+	printf("ë‘ ì •ìˆ˜ì˜ ê°’ : %d , %d\n", *pa, *pb);
+	printf("ë‘ ì •ìˆ˜ì˜ í•© : %d\n", *pt);
+	printf("ë‘ ì •ìˆ˜ì˜ í‰ê· : %.1lf\n", *pg);
 
 
 }
